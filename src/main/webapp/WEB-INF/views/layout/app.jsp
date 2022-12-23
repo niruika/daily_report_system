@@ -43,4 +43,4 @@
         <div id="footer">by Taro Kirameki.</div>
     </div>
 </body>
-</html>z
+</html>
